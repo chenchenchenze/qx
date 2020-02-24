@@ -545,5 +545,6 @@ DOMAIN-SUFFIX,wolframalpha.com,PROXY
 DOMAIN-SUFFIX,x-art.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
 DOMAIN-SUFFIX,notion.so,PROXY
+DOMAIN-SUFFIX,merlinblog.xyz,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
