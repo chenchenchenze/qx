@@ -1,4 +1,5 @@
-# (DNS Cache Pollution Protection)
+# 判断域名（DOMAIN）、域名后缀（DOMAIN-SUFFIX）和关键词（KEYWORD）
+
 # > Google
 DOMAIN-SUFFIX,ampproject.org,proxy
 DOMAIN-SUFFIX,appspot.com,proxy
