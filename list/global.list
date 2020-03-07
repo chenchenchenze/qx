@@ -549,6 +549,7 @@ DOMAIN-SUFFIX,x-art.com,proxy
 DOMAIN-SUFFIX,yimg.com,proxy
 DOMAIN-SUFFIX,1password.com,proxy
 DOMAIN-SUFFIX,notion.so,proxy
+DOMAIN-SUFFIX,cloudiplc.co,proxy
 DOMAIN-SUFFIX,merlinblog.xyz,proxy
 DOMAIN,api.steampowered.com,proxy
 DOMAIN,store.steampowered.com,proxy
