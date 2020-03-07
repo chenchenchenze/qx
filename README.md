@@ -1,2 +1,2 @@
 # qx
-TG @ximencun_bot
+TG @ximencun_bo
