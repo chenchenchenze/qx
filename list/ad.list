@@ -1,4 +1,9 @@
 # Advertising 广告
+
+
+DOMAIN-SUFFIX,baidu.com
+
+
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
 DOMAIN-SUFFIX,adcolony.com,REJECT
@@ -270,18 +275,7 @@ DOMAIN,splashqqlive.gtimg.com,REJECT
 DOMAIN,wa.gtimg.com,REJECT
 DOMAIN,wxsnsdy.wxs.qq.com,REJECT
 DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
-# (X)
-# > 喜马拉雅
-DOMAIN,ad.ximalaya.com,REJECT
-DOMAIN,adbs.ximalaya.com,REJECT
-DOMAIN,adse.ximalaya.com,REJECT
-DOMAIN,adse.wsa.ximalaya.com,REJECT
-DOMAIN,adbehavior.wsa.ximalaya.com,REJECT
-DOMAIN,adsebs.ximalaya.com,REJECT
-# > 小红书
-DOMAIN,ads-img-qc.xhscdn.com,REJECT
-DOMAIN,ads-video-qc.xhscdn.com,REJECT
-DOMAIN,t-ads.xiaohongshu.com,REJECT
+
 # (Y)
 # > Youku
 DOMAIN-SUFFIX,atm.youku.com,REJECT
