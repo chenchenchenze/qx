@@ -1,9 +1,6 @@
 # Advertising 广告
 
 
-DOMAIN-SUFFIX,baidu.com
-
-
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
 DOMAIN-SUFFIX,adcolony.com,REJECT
