@@ -560,5 +560,5 @@ DOMAIN-SUFFIX, nintendo.net,proxy
 DOMAIN-SUFFIX, appcenter.ms,proxy
 DOMAIN-SUFFIX, gamer.com.tw,proxy
 DOMAIN-SUFFIX, api.gamer.com.tw,proxy
-DOMAIN-SUFFIX, bahamut.com,proxy
+DOMAIN-KEYWORD, bahamut,proxy
 DOMAIN-SUFFIX, bootstrapcdn.com,proxy
