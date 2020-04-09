@@ -1,5 +1,72 @@
 # 判断域名（DOMAIN）、域名后缀（DOMAIN-SUFFIX）和关键词（KEYWORD）
 
+
+
+#自用
+DOMAIN-SUFFIX,1password.com,proxy
+DOMAIN-SUFFIX,notion.so,proxy
+DOMAIN-SUFFIX,cloudiplc.co,proxy
+DOMAIN-SUFFIX,merlinblog.xyz,proxy
+DOMAIN-SUFFIX,flygd.ga,proxy
+DOMAIN-SUFFIX, nintendo.com,proxy
+DOMAIN-SUFFIX, nintendo.net,proxy
+DOMAIN-SUFFIX, appcenter.ms,proxy
+DOMAIN-SUFFIX, gamer.com.tw,proxy
+DOMAIN-SUFFIX, api.gamer.com.tw,proxy
+DOMAIN-KEYWORD, bahamut,proxy
+DOMAIN-SUFFIX, bootstrapcdn.com,proxy
+
+# 国外域名
+DOMAIN-SUFFIX,hk,proxy
+DOMAIN-SUFFIX,jp,proxy
+DOMAIN-SUFFIX,kr,proxy
+DOMAIN-SUFFIX,sg,proxy
+DOMAIN-SUFFIX,tw,proxy
+DOMAIN-SUFFIX,uk,proxy
+DOMAIN-SUFFIX,us,proxy
+
+# 国外域名关键字
+DOMAIN-KEYWORD,1e100,proxy
+DOMAIN-KEYWORD,abema,proxy
+DOMAIN-KEYWORD,appledaily,proxy
+DOMAIN-KEYWORD,avtb,proxy
+DOMAIN-KEYWORD,beetalk,proxy
+DOMAIN-KEYWORD,blogspot,proxy
+DOMAIN-KEYWORD,dropbox,proxy
+DOMAIN-KEYWORD,facebook,proxy
+DOMAIN-KEYWORD,fbcdn,proxy
+DOMAIN-KEYWORD,github,proxy
+DOMAIN-KEYWORD,gmail,proxy
+DOMAIN-KEYWORD,google,proxy
+DOMAIN-KEYWORD,instagram,proxy
+DOMAIN-KEYWORD,porn,proxy
+DOMAIN-KEYWORD,sci-hub,proxy
+DOMAIN-KEYWORD,spotify,proxy
+DOMAIN-KEYWORD,twitter,proxy
+DOMAIN-KEYWORD,whatsapp,proxy
+
+
+# Porn
+DOMAIN-KEYWORD,porn,proxy
+DOMAIN-SUFFIX,8teenxxx.com,proxy
+DOMAIN-SUFFIX,ahcdn.com,proxy
+DOMAIN-SUFFIX,bcvcdn.com,proxy
+DOMAIN-SUFFIX,bongacams.com,proxy
+DOMAIN-SUFFIX,chaturbate.com,proxy
+DOMAIN-SUFFIX,dditscdn.com,proxy
+DOMAIN-SUFFIX,livejasmin.com,proxy
+DOMAIN-SUFFIX,rdtcdn.com,proxy
+DOMAIN-SUFFIX,redtube.com,proxy
+DOMAIN-SUFFIX,sb-cd.com,proxy
+DOMAIN-SUFFIX,spankbang.com,proxy
+DOMAIN-SUFFIX,t66y.com,proxy
+DOMAIN-SUFFIX,xhamster.com,proxy
+DOMAIN-SUFFIX,xnxx-cdn.com,proxy
+DOMAIN-SUFFIX,xnxx.com,proxy
+DOMAIN-SUFFIX,xvideos-cdn.com,proxy
+DOMAIN-SUFFIX,xvideos.com,proxy
+DOMAIN-SUFFIX,ypncdn.com,proxy
+
 # > Google
 DOMAIN-SUFFIX,ampproject.org,proxy
 DOMAIN-SUFFIX,appspot.com,proxy
@@ -549,16 +616,4 @@ DOMAIN-SUFFIX,x-art.com,proxy
 DOMAIN-SUFFIX,yimg.com,proxy
 DOMAIN,api.steampowered.com,proxy
 DOMAIN,store.steampowered.com,proxy
-#自用
-DOMAIN-SUFFIX,1password.com,proxy
-DOMAIN-SUFFIX,notion.so,proxy
-DOMAIN-SUFFIX,cloudiplc.co,proxy
-DOMAIN-SUFFIX,merlinblog.xyz,proxy
-DOMAIN-SUFFIX,flygd.ga,proxy
-DOMAIN-SUFFIX, nintendo.com,proxy
-DOMAIN-SUFFIX, nintendo.net,proxy
-DOMAIN-SUFFIX, appcenter.ms,proxy
-DOMAIN-SUFFIX, gamer.com.tw,proxy
-DOMAIN-SUFFIX, api.gamer.com.tw,proxy
-DOMAIN-KEYWORD, bahamut,proxy
-DOMAIN-SUFFIX, bootstrapcdn.com,proxy
+
