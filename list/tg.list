@@ -1,4 +1,6 @@
 # > Telegram
+
+DOMAIN-KEYWORD,telegram,TG
 DOMAIN-SUFFIX,t.me,TG
 DOMAIN-SUFFIX,tdesktop.com,TG
 DOMAIN-SUFFIX,telegra.ph,TG
