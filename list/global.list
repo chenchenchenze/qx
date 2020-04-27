@@ -78,6 +78,19 @@ DOMAIN-SUFFIX,gvt3.com,proxy
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,proxy
 DOMAIN-KEYWORD,google,proxy
 DOMAIN-KEYWORD,blogspot,proxy
+DOMAIN-KEYWORD,gmail,proxy
+DOMAIN-SUFFIX,1e100.net,proxy
+DOMAIN-SUFFIX,2mdn.net,proxy
+DOMAIN-SUFFIX,app-measurement.net,proxy
+DOMAIN-SUFFIX,g.co,proxy
+DOMAIN-SUFFIX,ggpht.com,proxy
+DOMAIN-SUFFIX,goo.gl,proxy
+DOMAIN-SUFFIX,googleapis.cn,proxy
+DOMAIN-SUFFIX,googleapis.com,proxy
+DOMAIN-SUFFIX,gstatic.cn,proxy
+DOMAIN-SUFFIX,gstatic.com,proxy
+
+
 # > Microsoft
 DOMAIN-SUFFIX,onedrive.live.com,proxy
 DOMAIN-SUFFIX,xboxlive.com,proxy
