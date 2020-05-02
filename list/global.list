@@ -15,6 +15,7 @@ DOMAIN-SUFFIX, gamer.com.tw,proxy
 DOMAIN-SUFFIX, api.gamer.com.tw,proxy
 DOMAIN-KEYWORD, bahamut,proxy
 DOMAIN-SUFFIX, bootstrapcdn.com,proxy
+DOMAIN-KEYWORD, md.pub,proxy
 
 # 国外域名
 DOMAIN-SUFFIX,hk,proxy
