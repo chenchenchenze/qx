@@ -26,3 +26,6 @@ host-suffix, icloud.com, apple
 host-suffix, icloud-content.com, apple
 host-suffix, itunes.com, apple
 host-suffix, me.com, apple
+
+#捷径
+host, cvws.icloud-content.com, apple
